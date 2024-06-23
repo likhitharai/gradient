@@ -7,3 +7,7 @@ Whether you're designing a website, crafting a presentation, or enhancing your d
 Features:
 - Random hex code generation
 - one touch - copy code and use it
+
+
+Access the website using the below link:
+https://likhitharai.github.io/gradient/
